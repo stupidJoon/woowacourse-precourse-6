@@ -1,0 +1,12 @@
+[submodule "javascript-baseball-6"]
+	path = javascript-baseball-6
+	url = https://github.com/stupidJoon/javascript-baseball-6
+[submodule "javascript-racingcar-6"]
+	path = javascript-racingcar-6
+	url = https://github.com/stupidJoon/javascript-racingcar-6
+[submodule "javascript-lotto-6"]
+	path = javascript-lotto-6
+	url = https://github.com/stupidJoon/javascript-lotto-6
+[submodule "javascript-christmas-6-stupidJoon"]
+	path = javascript-christmas-6-stupidJoon
+	url = https://github.com/stupidJoon/javascript-christmas-6-stupidJoon
